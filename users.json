@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": 0,
+    "owner_address": "0x17769439EB0CC10a095C810029E20a9089CCD339",
+    "smart_account_address": "0x4d155749c75D639C8ecAbd3aEd04584D60C7661C",
+    "derivation_path": "m/44'/60'/0'/0/0"
+  },
+  {
+    "user_id": 1,
+    "owner_address": "0x89BA08f4Ba03b740993a624517d6E84C9243b795",
+    "smart_account_address": "0x20FA0D3CbAc1b374F0c546f9FBB2c117fec62Ee8",
+    "derivation_path": "m/44'/60'/0'/0/1"
+  },
+  {
+    "user_id": 2,
+    "owner_address": "0xbc5AB7cdF774c2Be2232469a8e00763b8398D78C",
+    "smart_account_address": "0xAD32d43Ff0A7Aad668616AF129f78967480BFe5e",
+    "derivation_path": "m/44'/60'/0'/0/2"
+  }
+]
